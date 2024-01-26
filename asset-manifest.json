@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Arham-editor/static/css/main.19391a0b.css",
+    "main.js": "/Arham-editor/static/js/main.30241839.js",
+    "static/js/787.47778f47.chunk.js": "/Arham-editor/static/js/787.47778f47.chunk.js",
+    "index.html": "/Arham-editor/index.html",
+    "main.19391a0b.css.map": "/Arham-editor/static/css/main.19391a0b.css.map",
+    "main.30241839.js.map": "/Arham-editor/static/js/main.30241839.js.map",
+    "787.47778f47.chunk.js.map": "/Arham-editor/static/js/787.47778f47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19391a0b.css",
+    "static/js/main.30241839.js"
+  ]
+}
